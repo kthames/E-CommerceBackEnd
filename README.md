@@ -2,10 +2,9 @@
  
  This application utilizes Node.js, Sequelize, and MySQL to provide a the backend for a e-commerce business.
 
- [E-Commerce Back End](https://github.com/kthames/E-CommerceBackEnd)
-![E-Commerce Back End]()
+[E-Commerce Back End](https://github.com/kthames/E-CommerceBackEnd)
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/18CjWKgbWmzlyMGpr-RGItN5tl99m0ggM/view)
 
 ## Installation
 
